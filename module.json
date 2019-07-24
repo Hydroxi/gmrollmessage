@@ -1,0 +1,13 @@
+{
+    "name": "gmrollmessage",
+    "title": "Gm Roll Message",
+    "description": "Provides a message when the GM does a hidden roll.",
+    "version": "0.1",
+    "author": "Hydroxi",
+    "systems": ["dnd5e"],
+    "scripts": ["./scripts/index.js"],
+    "packs": [],
+    "url": "https://github.com/Hydroxi/gmrollmessage",
+    "manifest": "https://github.com/Hydroxi/gmrollmessage/raw/master/module.json",
+    "download": "https://github.com/Hydroxi/gmrollmessage/raw/master/gmrollmessage.zip"
+}
