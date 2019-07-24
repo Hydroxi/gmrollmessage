@@ -4,7 +4,7 @@ class GmRollMessage extends Application {
     }
     init() {
         Hooks.on("chatMessage", (app, html, data) => {
-            console.log(data);
+           // console.log(data);
             if (data.type === "gmroll" || data.type === "blindroll") {
                 AudioHelper.play({ src: CONFIG.sounds.dice });
                 ChatMessage.create({
