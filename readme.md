@@ -1,4 +1,4 @@
-# gmrollmessage
+# gmrollmessage (defunct)
 Module for Foundry VTT: Sends an extra public message/hint when rolling a gmroll or blindroll
 
 __deprecated since foundryvtt 3.9.0__
